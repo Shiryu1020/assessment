@@ -98,6 +98,7 @@ userNameInput.onkeydown = event => {
     }
 };
 
+
 // テストコード
 console.assert(
     assessment('太郎') ===
